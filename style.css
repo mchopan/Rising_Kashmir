@@ -1,0 +1,135 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-links{
+    display: flex;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+.top-nav-links{
+    text-decoration: none;
+    color: #271e1f;
+}
+
+.top-nav-links::after{
+    content: " | ";
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-top: 20px;
+}
+
+.search_burger{
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
+}
+
+.logo, .social_icons,.date-time{
+    cursor: pointer;
+}
+
+
+.sticky_navbar{
+    display: flex;
+    position: sticky;
+    z-index: 9999;
+    top: 0;
+    justify-content: center;
+    gap:20px;
+    line-height: 25px;
+    margin-top: -16px;
+    background-color: #ffffff;
+}
+
+.sticky_navbar > a{
+    text-decoration: none;
+    color: black; 
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Helvetica, sans-serif;
+    padding: 15px;
+}
+
+.sticky_navbar > a:hover{
+    background-color: #F6F9FC;
+}
+
+.container-fluid{
+    background-color:#F6F9FC;
+}
+
+.row{
+    font-family: Helvetica, sans-serif;
+
+}
+
+.card-body{
+    /* padding: 20px; */
+    overflow: hidden;
+    
+}
+
+.cardBoddy{
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 280px;
+    border-radius: 20px;
+    padding: 0px;
+}
+
+.card > img{
+    border-top-left-radius: 20px ;
+    border-top-right-radius: 20px ;
+}
+
+.breaking-news >hr{
+    width: 1100px;
+    margin-top: 15px;
+    height: 2px;
+}
+
+.card-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.top_news{
+    height: auto;
+    border-radius: 0px;
+}
+
+.cardBbc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px;
+    height: 150px;
+    width: 200px;
+}
+
+.top_news >img{
+    border-radius: 0px;
+}
+
+.cardMiddle{
+    height: 125px;
+}

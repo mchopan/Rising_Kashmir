@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Marc Santora, Ivan Nechepurenko",
+        "title": "Russia-Ukraine War Live Updates: Odesa Airport and Mariupol News - The New York Times",
+        "description": "The House speaker announced that she had met with President Volodymyr Zelensky on Saturday in Kyiv. She is the highest ranking U.S. official to travel to Ukraine since the war began.",
+        "url": "https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news",
+        "urlToImage": "https://static01.nyt.com/images/2022/05/01/world/01ukraine-blog-promo-6am-EST/01ukraine-blog-promo-6am-EST-facebookJumbo.jpg",
+        "publishedAt": "2022-05-01T10:25:58Z",
+        "content": "KYIV, Ukraine The heist started when a mysterious man in a white lab coat showed up at the museum.A squad of Russian soldiers stood behind him, with guns, watching eagerly.Using long tweezers and spe… [+5986 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Jacob Lev, CNN",
+        "title": "Katie Taylor defeats Amanda Serrano in first boxing match headlined by two women at Madison Square Garden - CNN",
+        "description": "Ireland's Katie Taylor defeated Puerto Rico's Amanda Serrano Saturday night in the first boxing match headlined by two women at New York's Madison Square Garden.",
+        "url": "https://www.cnn.com/2022/04/30/sport/katie-taylor-amanda-serrano-spt-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220430214010-katie-taylor-victory-043022-restricted-super-tease.jpg",
+        "publishedAt": "2022-05-01T10:22:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Russia-Ukraine war: Civilians evacuate Mariupol’s Azovstal plant - Al Jazeera English",
+        "description": "Civilians brought out of Azovstal after a night of heavy Russian attacks on the last Ukrainian stronghold in Mariupol.",
+        "url": "https://www.aljazeera.com/news/2022/5/1/russia-ukraine-war-civilians-evacuate-mariupols-azovstal-plant",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-04-29T195308Z_1167442490_RC21XT9N1K60_RTRMADP_3_UKRAINE-CRISIS-MARIUPOL.jpg?resize=1200%2C630",
+        "publishedAt": "2022-05-01T09:11:15Z",
+        "content": "Doznes of people have been evacuated from a steel plant in the pulverised city of Mariupol, including women and children.\r\nTwo groups of civilians left the residential area around the Azovstal steelw… [+4270 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "By <a href=\"/profiles/nectar-gan\">Nectar Gan</a>, <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, <a href=\"/profiles/eliza-mackintosh\">Eliza Mackintosh</a> and Jack Bantock, CNN",
+        "title": "Russia's war in Ukraine: Live updates - CNN",
+        "description": "The Azovstal steel plant in Mariupol has been largely destroyed by Russian missile strikes, according to new satellite images. Meanwhile, some civilians have been evacuated, according to a Ukrainian commander inside.",
+        "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-01-22/index.html",
+        "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/247acb37-1532-4e31-aa94-c479e7b41b30.jpeg",
+        "publishedAt": "2022-05-01T08:50:00Z",
+        "content": "Some civilians have been evacuated from the Azovstal steel works in Mariupol after a ceasefire was introduced, according to a commander in the Azov Regiment, one of the Ukrainian soldiers trapped at … [+2190 chars]"
+    }, {
+        "source": {
+            "id": "independent",
+            "name": "Independent"
+        },
+        "author": "Rachel Sharp",
+        "title": "Naomi Judd death: Country music star dies aged 76 - The Independent",
+        "description": "Judd’s death was announced by her daughter, the actor Ashley Judd, who said she was ‘shattered’ by the news",
+        "url": "https://www.independent.co.uk/arts-entertainment/music/news/naomi-judd-death-cause-country-singer-b2069305.html",
+        "urlToImage": "https://static.independent.co.uk/2022/04/30/21/3573eda90f2a1abdfa2bf85c2f822e43Y29udGVudHNlYXJjaGFwaSwxNjUxNDM2NTEz-2.66639846.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-05-01T08:10:03Z",
+        "content": "Naomi Judd, the country music star and one half of Grammy award-winning duo The Judds, has died at the age of 76.\r\nHer daughter, the actor Ashley Judd, announced her mothers death in a statement on I… [+3761 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Reuters",
+        "title": "Twitter CEO faces employee anger over Musk attacks at company-wide meeting - Fox Business",
+        "description": "Twitter Chief Executive Parag Agrawal sought to quell employee anger on Friday during a company-wide meeting where employees demanded answers to how managers planned to handle an anticipated mass exodus prompted by Elon Musk.",
+        "url": "https://www.foxbusiness.com/technology/twitter-ceo-faces-employee-anger-over-musk-attacks-at-company-wide-meeting",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/Parag-Agarwal-Twitter-CEO.jpg?ve=1&tl=1",
+        "publishedAt": "2022-05-01T07:57:12Z",
+        "content": "Twitter Chief Executive Parag Agrawal sought to quell employee anger on Friday during a company-wide meeting where employees demanded answers to how managers planned to handle an anticipated mass exo… [+4115 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Kevin Iole",
+        "title": "Shakur Stevenson's biggest moment interrupted by ugly scene at post-fight news conference - Yahoo Sports",
+        "description": "Stevenson lost his moment in the sun because of it, though he was brilliant enough in the ring before a national audience on ESPN that his words at a news...",
+        "url": "https://sports.yahoo.com/shakur-stevensons-biggest-moment-interrupted-by-ugly-scene-at-post-fight-news-conference-073042223.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6xinCVT4oCk84mvLidu4_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTg-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/6a8859e0-c920-11ec-be42-93b1a1119667",
+        "publishedAt": "2022-05-01T07:30:42Z",
+        "content": "From the day he turned pro, this kind of performance from Shakur Stevenson was inevitable. Hes the kind of guy who can dominate boxing for a decade or more. He understands the game at a level few do.… [+4793 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Pilar Melendez",
+        "title": "Johnny Depp and Amber Heard Trial Includes Christian Carino, ex-Lady GAGA Fiasco on Elon Musk, and Others - The Daily Beast",
+        "description": "In arguing that his ex-wife Amber Heard defamed him, the actor accused of abuse has called on a curious cast of characters.",
+        "url": "https://www.thedailybeast.com/johnny-depp-and-amber-heard-trial-includes-christian-carino-ex-lady-gaga-fiasco-on-elon-musk-and-others",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1651343898/220430-Melendez-Witnesses-JohnnyDepp-tease_ppmsbt",
+        "publishedAt": "2022-05-01T06:26:49Z",
+        "content": "For three weeks, 12 jurors, a gallery of spectators, and hordes of online sleuths have been watching virtually every moment of the $50 million defamation saga between Johnny Depp and Amber Heard in V… [+10186 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": null,
+        "title": "1 dead, 5 injured in shooting at Mississippi Mudbug Festival, sheriff says - ABC News",
+        "description": "",
+        "url": "https://abcnews.go.com/US/dead-injured-shooting-mudbugs-festival-mississippi-sheriff/story?id=84423826",
+        "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg",
+        "publishedAt": "2022-05-01T05:26:29Z",
+        "content": "One person died and five others were injured in an incident with multiple shooters at the Mississippi Mudbug Festival at the state's fairgrounds in Jackson on Saturday, Hinds County Sheriff Tyree Jon… [+972 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "ESPN"
+        },
+        "author": "Mel Kiper Jr.",
+        "title": "NFL draft grades - Mel Kiper Jr. picks steals, sleepers and favorite 2022 classes from all 32 teams - ESPN",
+        "description": "The Texans got a few foundational prospects. The Lions got an in-state star. And the Titans might have gotten the steal of the draft.",
+        "url": "https://www.espn.com/nfl/insider/draft2022/insider/story/_/id/33827196/nfl-draft-grades-mel-kiper-jr-picks-steals-sleepers-favorite-2022-classes-all-32-teams",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0429%2Fnfl_mel%2Dkipers%2Ddraft%2Dgrades_16x9.jpg",
+        "publishedAt": "2022-05-01T04:34:07Z",
+        "content": "This was my 39th year doing the NFL draft for ESPN, and I can't remember a trading frenzy quite like the one we saw in the middle of Round 1 on Thursday. There were picks and players flying off the b… [+73408 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "KOAT New Mexico"
+        },
+        "author": "Angel Salcedo",
+        "title": "Calf Canyon and Hermits Peak fire grows 30,000 acres overnight and threatens Las Vegas - KOAT New Mexico",
+        "description": "The Calf Canyon and Hermits Peak Fire continue to evolve. As of Saturday, the fire has burned more than 94,000 acres and only about 32 percent contained.",
+        "url": "https://www.koat.com/article/calf-canyon-hermits-peak-fire-grows-overnight/39869764",
+        "urlToImage": "https://kubrick.htvapps.com/vidthumb/4630d128-60fb-40fa-bff7-e8b32adb638a/4630d128-60fb-40fa-bff7-e8b32adb638a_image.jpg?crop=0.732xw:0.733xh;0.240xw,0.0407xh&resize=1200:*",
+        "publishedAt": "2022-05-01T04:09:00Z",
+        "content": "The Calf Canyon and Hermits Peak fire continue to spread up north, and now parts of Las Vegas are preparing to evacuate. \r\nThe Calf Canyon and Hermits Peak Fire continue to evolve. As of Saturday, th… [+1374 chars]"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Dan Balz, Emily Guskin, Scott Clement",
+        "title": "Post-ABC poll: Biden more popular, but Republicans favored on economy - The Washington Post",
+        "description": "Republicans continue to lose ground when it comes to which party voters see themselves casting ballots for in November and the parties are now at rough parity.",
+        "url": "https://www.washingtonpost.com/politics/2022/05/01/poll-biden-post-abc/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/POYWTNGCQEI6ZNO7D65GDJTMOU.jpg&w=1440",
+        "publishedAt": "2022-05-01T04:01:25Z",
+        "content": "Placeholder while article actions load\r\nPresident Bidens standing with Americans has improved slightly over the past two months, but he remains in negative territory in most assessments of his perfor… [+8400 chars]"
+    }, {
+        "source": {
+            "id": "ign",
+            "name": "IGN"
+        },
+        "author": "Adam Bankhurst",
+        "title": "NASA's Ingenuity Helicopter Beams Back Eerie Spacecraft Wreckage From Mars - IGN - IGN",
+        "description": "NASA's Ingenuity helicopter has beamed back to Earth eerie yet incredible images of the NASA Perseverance rover wreckage that helped bring it to the Red Planet last year.",
+        "url": "https://www.ign.com/articles/nasa-ingenuity-helicopter-beams-back-eerie-spacecraft-wreckage-from-mars-perseverance",
+        "urlToImage": "https://assets-prd.ignimgs.com/2022/05/01/maes1-1651375208712.png?width=1280",
+        "publishedAt": "2022-05-01T03:30:16Z",
+        "content": "NASA's Ingenuity helicopter has beamed back to Earth eerie yet incredible images of the NASA Perseverance rover wreckage that helped bring it to the Red Planet last year.\r\nAs reported by CBS News, In… [+1655 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Biden speaks at the White House correspondents' dinner - Washington Post",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7L6R7zDOo5I",
+        "urlToImage": null,
+        "publishedAt": "2022-05-01T03:21:12Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    }, {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Katherine Tangalakis-Lippert",
+        "title": "Tucker Carlson declined Trump call to pre-empt criticism on Fox show - Business Insider",
+        "description": "In private, Mr. Carlson mocked the president's habit of calling to head off his on-air attacks, The New York Times reported.",
+        "url": "https://www.businessinsider.com/tucker-carlson-declined-trump-call-pre-empt-criticism-fox-show-2022-4",
+        "urlToImage": "https://i.insider.com/626de3dc0983640018c097c7?width=1200&format=jpeg",
+        "publishedAt": "2022-05-01T03:19:20Z",
+        "content": "Despite promoting Donald Trump's platform issues on his prime time television show, Fox News host Tucker Carlson privately mocked the former president, according to reporting by The New York Times. \r… [+1506 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Kathianne Boniello",
+        "title": "15 hurt in Atlanta 'pedal pub' accident - New York Post ",
+        "description": "Two people were critically hurt and another 13 injured when a pub on wheels overturned in midtown Atlanta, according to reports.",
+        "url": "https://nypost.com/2022/04/30/15-hurt-in-atlanta-pedal-pub-accident/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/pedal-1.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2022-05-01T02:29:30Z",
+        "content": "Two people were critically hurt and another 13 injured when a pub on wheels overturned in midtown Atlanta, according to reports.\r\nThe Saturday evening incident unfolded when the “pedal pub” — a large… [+560 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Andy Rose, CNN",
+        "title": "3 University of Oklahoma students were killed in a traffic accident while returning from a storm-chasing trip - CNN",
+        "description": "Three University of Oklahoma meteorology students were killed late Friday night when their vehicle hydroplaned and was struck by a tractor-trailer, according to the Oklahoma Highway Patrol.",
+        "url": "https://www.cnn.com/2022/04/30/us/oklahoma-college-students-die-storm-chasing-trip/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220430205333-oklahoma-college-students-die-storm-chasing-trip-map-card-only-super-tease.jpg",
+        "publishedAt": "2022-05-01T02:23:00Z",
+        "content": "(CNN)Three University of Oklahoma meteorology students were killed late Friday night when their vehicle hydroplaned and was struck by a tractor-trailer, according to the Oklahoma Highway Patrol. \r\nTh… [+2652 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "49ers Webzone"
+        },
+        "author": "Rohan Chakravarthi",
+        "title": "Breaking down the 49ers' undrafted free agent signings - 49ers Webzone",
+        "description": "After a relatively quiet draft for the 49ers, in which they stayed put at every selection, San Francisco was extremely active in the undrafted free agent pool, and hit the jackpot on a few players.  H",
+        "url": "https://www.49erswebzone.com/articles/157968-breaking-down-49ers-undrafted-free-agent-signings/",
+        "urlToImage": "https://www.49erswebzone.com/v/MKFiEI/content/media/article/74e90712bf6c4b55eabc58bed8f03876.jpg?social=true",
+        "publishedAt": "2022-05-01T02:06:25Z",
+        "content": "After a relatively quiet draft for the 49ers, in which they stayed put at every selection, San Francisco was extremely active in the undrafted free agent pool, and hit the jackpot on a few players.He… [+2570 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YourTango"
+        },
+        "author": "Aria Gmitter",
+        "title": "The Love Horoscope For Each Zodiac Sign On Sunday May 1, 2022 - YourTango",
+        "description": "The love horoscope of each zodiac sign in astrology is here for May 1, 2022. Check out what the Sun, Moon, and stars have in store for you on Sunday.",
+        "url": "https://www.yourtango.com/2022350382/love-horoscope-each-zodiac-sign-sunday-may-1-2022",
+        "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/love-horoscope-may-1-2022.jpg?itok=J3CZ-qTw",
+        "publishedAt": "2022-05-01T01:02:36Z",
+        "content": "For Sunday's love horoscope by zodiac sign, resident astrologer Aria Gmitter shares how current astrological events affect you on May 1, 2022.\r\nRELATED: The 3 Zodiac Signs Who Are Luckiest In Love Du… [+5930 chars]"
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "UK lawmaker resigns after admitting twice watching porn in parliament - Reuters.com",
+        "description": "A British lawmaker who had been suspended from Prime Minister Boris Johnson's Conservative Party said on Saturday he had resigned after admitting he twice viewed pornography on his phone in the House of Commons \"in a moment of madness.\"",
+        "url": "https://www.reuters.com/world/uk/uk-lawmaker-says-he-opened-porn-parliament-error-2022-04-30/",
+        "urlToImage": "https://www.reuters.com/resizer/wF0ITi-CGJZV9vso1BUmgUuUzTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AT4GHNRQ6ZL35BO4GBMCGPVU3E.jpg",
+        "publishedAt": "2022-05-01T00:13:00Z",
+        "content": "LONDON, April 30 (Reuters) - A British lawmaker who had been suspended from Prime Minister Boris Johnson's Conservative Party said on Saturday he had resigned after admitting he twice viewed pornogra… [+2220 chars]"
+    }]
+}
